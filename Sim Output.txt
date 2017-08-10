@@ -1,0 +1,735 @@
+BJSwitch HiLow Strategy Simulation Complete
+Expected final pool: 7934
+Positive outcome: 53.477936%
+Standard Deviation on final: 3972.7936898760076
+Hourly return at 100 games / hr: 28
+Odds of bankrupcy: 5.0E-4
+BJSwitch HiLow Strategy Simulation with Organic Bet Increase on Win Complete
+Expected final pool: 7830
+Positive outcome: 53.267162%
+Standard Deviation on final: 3603.1644143066874
+Hourly return at 100 games / hr: 22
+Odds of bankrupcy: 2.3333334E-4
+BJSwitch HiLow Strategy Simulation with Walks Complete
+Expected final pool: 8305
+Positive outcome: 56.095894%
+Standard Deviation on final: 4329.216884797577
+Hourly return at 100 games / hr: 53
+Odds of bankrupcy: 7.3333335E-4
+Average tables switched per 1500 games: 44
+Games between switches: 34
+BJSwitch HiLow Strategy Simulation with Organic Bet Increase On Loss Complete
+Expected final pool: 7886
+Positive outcome: 54.309875%
+Standard Deviation on final: 2825.1363437688806
+Hourly return at 100 games / hr: 25
+Odds of bankrupcy: 4.0E-4
+BJSwitch Wong Halves Strategy Simulation Complete
+Expected final pool: 7932
+Positive outcome: 53.65854%
+Standard Deviation on final: 4143.13870721248
+Hourly return at 100 games / hr: 28
+Odds of bankrupcy: 8.6666667E-4
+BJSwitch HiLow Strategy Simulation, with Whale Complete
+Expected final pool: 754203
+Positive outcome: 55.140846%
+Standard Deviation on final: 26062.369433230328
+Hourly return at 100 games / hr: 280
+Odds of bankrupcy: 0.0
+BJSwitch Textbook Strategy Simulation Complete
+Expected final pool: 7212
+Positive outcome: 47.136562%
+Standard Deviation on final: 2662.513409616497
+Hourly return at 100 games / hr: -19
+Odds of bankrupcy: 0.0
+Freebet HiLow Strategy Simulation Complete
+Expected final pool: 6871
+Positive outcome: 42.237442%
+Standard Deviation on final: 2628.003908771931
+Hourly return at 100 games / hr: -41
+Odds of bankrupcy: 0.0
+Freebet HiLow Strategy Simulation with Organic Bet Increase on Win Complete
+Expected final pool: 6932
+Positive outcome: 42.71482%
+Standard Deviation on final: 2401.353919552247
+Hourly return at 100 games / hr: -37
+Odds of bankrupcy: 0.0
+Freebet HiLow Strategy Simulation with Walks Complete
+Expected final pool: 6889
+Positive outcome: 43.53493%
+Standard Deviation on final: 2883.8631060600405
+Hourly return at 100 games / hr: -40
+Odds of bankrupcy: 1.3333333E-4
+Average tables switched per 1500 games: 28
+Games between switches: 53
+Freebet HiLow Strategy Simulation with Organic Bet Increase On Loss Complete
+Expected final pool: 6899
+Positive outcome: 39.838825%
+Standard Deviation on final: 2073.438878007721
+Hourly return at 100 games / hr: -40
+Odds of bankrupcy: 0.0
+Freebet HiLow Strategy Simulation, with Whale Complete
+Expected final pool: 746774
+Positive outcome: 43.593105%
+Standard Deviation on final: 16671.980687674935
+Hourly return at 100 games / hr: -215
+Odds of bankrupcy: 0.0
+Freebet Textbook Strategy Simulation Complete
+Expected final pool: 6741
+Positive outcome: 35.80705%
+Standard Deviation on final: 1579.8801644275943
+Hourly return at 100 games / hr: -50
+Odds of bankrupcy: 0.0
+HiLow Strategy Simulation with Walks, baseline for stackable Complete
+Expected final pool: 5435
+Positive outcome: 54.484535%
+Standard Deviation on final: 2890.309832498075
+Hourly return at 100 games / hr: 29
+Odds of bankrupcy: 0.0016333334
+Average tables switched per 1500 games: 42
+Games between switches: 35
+HiLow Strategy Simulation with Walks, Fab4, and I18 Complete
+Expected final pool: 5485
+Positive outcome: 56.01942%
+Standard Deviation on final: 3086.888798038619
+Hourly return at 100 games / hr: 32
+Odds of bankrupcy: 0.0032
+Average tables switched per 1500 games: 42
+Games between switches: 35
+HiLow Strategy Simulation with Walks and Fab4 Complete
+Expected final pool: 5457
+Positive outcome: 55.15832%
+Standard Deviation on final: 2911.5711236494735
+Hourly return at 100 games / hr: 30
+Odds of bankrupcy: 0.0018666667
+Average tables switched per 1500 games: 42
+Games between switches: 35
+HiLow Strategy Simulation with Tandem Whale Approximation Complete
+Expected final pool: 26703
+Positive outcome: 56.26208%
+Standard Deviation on final: 15982.337195164726
+Hourly return at 100 games / hr: 113
+Odds of bankrupcy: 0.0204
+Superfun21 HiLow Strategy Simulation Complete
+Expected final pool: 7390
+Positive outcome: 49.08912%
+Standard Deviation on final: 3036.265165397061
+Hourly return at 100 games / hr: -7
+Odds of bankrupcy: 3.3333334E-5
+Superfun21 HiLow Strategy Simulation with Organic Bet Increase on Win Complete
+Expected final pool: 7369
+Positive outcome: 49.215572%
+Standard Deviation on final: 2569.7062361357307
+Hourly return at 100 games / hr: -8
+Odds of bankrupcy: 0.0
+Superfun21 HiLow Strategy Simulation with Walks Complete
+Expected final pool: 7602
+Positive outcome: 50.71249%
+Standard Deviation on final: 3561.222689883418
+Hourly return at 100 games / hr: 6
+Odds of bankrupcy: 4.0E-4
+Average tables switched per 1500 games: 189
+Games between switches: 7
+Superfun21 HiLow Strategy Simulation with Organic Bet Increase On Loss Complete
+Expected final pool: 7392
+Positive outcome: 48.230156%
+Standard Deviation on final: 2280.2436666712806
+Hourly return at 100 games / hr: -7
+Odds of bankrupcy: 0.0
+Superfun21 HiLow Strategy Simulation, with Whale Complete
+Expected final pool: 750128
+Positive outcome: 49.923847%
+Standard Deviation on final: 18446.141731863932
+Hourly return at 100 games / hr: 8
+Odds of bankrupcy: 0.0
+Superfun21 Textbook Strategy Simulation Complete
+Expected final pool: 6991
+Positive outcome: 42.12272%
+Standard Deviation on final: 1774.2848992803445
+Hourly return at 100 games / hr: -33
+Odds of bankrupcy: 0.0
+HiLow Strategy Simulation with Walks - week long Complete
+Expected final pool: 6044
+Positive outcome: 63.478584%
+Standard Deviation on final: 4100.128642242757
+Hourly return at 100 games / hr: 29
+Odds of bankrupcy: 0.02486
+Average tables switched per 3500 games: 99
+Games between switches: 35
+HiLow Strategy Simulation with Walks and Large Insurnace - week long Complete
+Expected final pool: 6180
+Positive outcome: 64.097885%
+Standard Deviation on final: 4127.676766142914
+Hourly return at 100 games / hr: 33
+Odds of bankrupcy: 0.02094
+Average tables switched per 3500 games: 99
+Games between switches: 35
+Doubleattack HiLow Strategy Simulation Complete
+Expected final pool: 8333
+Positive outcome: 57.850277%
+Standard Deviation on final: 5227.404132693549
+Hourly return at 100 games / hr: 55
+Odds of bankrupcy: 0.016833333
+Doubleattack HiLow Strategy Simulation with Organic Bet Increase on Win Complete
+Expected final pool: 8176
+Positive outcome: 56.878143%
+Standard Deviation on final: 4877.477041387155
+Hourly return at 100 games / hr: 45
+Odds of bankrupcy: 0.008833333
+Doubleattack HiLow Strategy Simulation with Walks Complete
+Expected final pool: 8759
+Positive outcome: 60.91398%
+Standard Deviation on final: 5731.24168589118
+Hourly return at 100 games / hr: 83
+Odds of bankrupcy: 0.026233334
+Average tables switched per 1500 games: 32
+Games between switches: 46
+Doubleattack HiLow Strategy Simulation with Organic Bet Increase On Loss Complete
+Expected final pool: 8213
+Positive outcome: 56.86901%
+Standard Deviation on final: 4005.303931792664
+Hourly return at 100 games / hr: 47
+Odds of bankrupcy: 0.012933333
+Doubleattack HiLow Strategy Simulation, 6 Deck H17 Complete
+Expected final pool: 8328
+Positive outcome: 57.409077%
+Standard Deviation on final: 5054.586874413663
+Hourly return at 100 games / hr: 55
+Odds of bankrupcy: 0.013733333
+Doubleattack HiLow Strategy Simulation, with Whale Complete
+Expected final pool: 753435
+Positive outcome: 55.726368%
+Standard Deviation on final: 20664.065743216393
+Hourly return at 100 games / hr: 229
+Odds of bankrupcy: 0.0
+Doubleattack Textbook Strategy Simulation Complete
+Expected final pool: 7332
+Positive outcome: 48.008614%
+Standard Deviation on final: 2747.604525907211
+Hourly return at 100 games / hr: -11
+Odds of bankrupcy: 0.0
+Exact Prob Strategy Simulation, One Deck Complete
+Expected final pool: 5882
+Positive outcome: 58.921165%
+Standard Deviation on final: 3217.8507334889255
+Hourly return at 100 games / hr: 58
+Odds of bankrupcy: 0.0033333334
+HiLow Strategy Simulation Baseline for Prob, One Deck Complete
+Expected final pool: 5876
+Positive outcome: 59.04894%
+Standard Deviation on final: 3226.7308629424288
+Hourly return at 100 games / hr: 58
+Odds of bankrupcy: 0.0030333332
+HiLow Strategy Simulation Complete
+Expected final pool: 5232
+Positive outcome: 52.429962%
+Standard Deviation on final: 2612.860646522794
+Hourly return at 100 games / hr: 15
+Odds of bankrupcy: 6.6666666E-4
+HiLow Strategy Simulation with Organic Bet Increase on Win Complete
+Expected final pool: 5211
+Positive outcome: 52.70691%
+Standard Deviation on final: 2395.734178469981
+Hourly return at 100 games / hr: 14
+Odds of bankrupcy: 1.6666666E-4
+HiLow Strategy Simulation with Walks Complete
+Expected final pool: 5452
+Positive outcome: 54.88683%
+Standard Deviation on final: 2896.519900048781
+Hourly return at 100 games / hr: 30
+Odds of bankrupcy: 0.0016333334
+Average tables switched per 1500 games: 42
+Games between switches: 35
+HiLow Strategy Simulation with Organic Bet Increase On Loss Complete
+Expected final pool: 5218
+Positive outcome: 53.334457%
+Standard Deviation on final: 2001.156847221344
+Hourly return at 100 games / hr: 14
+Odds of bankrupcy: 5.0E-4
+HiLow Strategy Simulation with Organic Bet Increase on Win, with High Starting Threshold Complete
+Expected final pool: 5175
+Positive outcome: 53.19149%
+Standard Deviation on final: 2539.3351182523347
+Hourly return at 100 games / hr: 11
+Odds of bankrupcy: 5.0E-4
+Wong Halves Strategy Simulation Complete
+Expected final pool: 5267
+Positive outcome: 53.421635%
+Standard Deviation on final: 2707.1861290474367
+Hourly return at 100 games / hr: 17
+Odds of bankrupcy: 0.0011
+Wong Halves with Walks Strategy Simulation with Walks Complete
+Expected final pool: 5496
+Positive outcome: 55.91182%
+Standard Deviation on final: 2979.81863982567
+Hourly return at 100 games / hr: 33
+Odds of bankrupcy: 0.0025
+Average tables switched per 1500 games: 45
+Games between switches: 33
+Textbook Strategy Simulation Complete
+Expected final pool: 4858
+Positive outcome: 47.971783%
+Standard Deviation on final: 1660.9499884697102
+Hourly return at 100 games / hr: -9
+Odds of bankrupcy: 0.0
+HiLow Strategy Simulation with Insurnace Prob Strategy, One Deck Complete
+Expected final pool: 6038
+Positive outcome: 60.622967%
+Standard Deviation on final: 3203.814863370552
+Hourly return at 100 games / hr: 69
+Odds of bankrupcy: 0.0020666667
+HiLow Strategy Simulation with Insurnace, One Deck Complete
+Expected final pool: 6076
+Positive outcome: 60.697674%
+Standard Deviation on final: 3209.0052856384973
+Hourly return at 100 games / hr: 71
+Odds of bankrupcy: 0.0021
+HiLow Strategy Simulation with Insurnace, Two Deck Complete
+Expected final pool: 5656
+Positive outcome: 57.02275%
+Standard Deviation on final: 3007.7700121673165
+Hourly return at 100 games / hr: 43
+Odds of bankrupcy: 0.0017666667
+HiLow Strategy Simulation with Insurnace Complete
+Expected final pool: 5266
+Positive outcome: 53.37565%
+Standard Deviation on final: 2586.54887885616
+Hourly return at 100 games / hr: 17
+Odds of bankrupcy: 6.6666666E-4
+HiLow Strategy Simulation Benchmark, One Deck Complete
+Expected final pool: 5913
+Positive outcome: 59.388042%
+Standard Deviation on final: 3208.061453694661
+Hourly return at 100 games / hr: 60
+Odds of bankrupcy: 0.0028
+HiLow Strategy Simulation with Walks and Insurnace Complete
+Expected final pool: 5501
+Positive outcome: 55.555557%
+Standard Deviation on final: 2887.355749610048
+Hourly return at 100 games / hr: 33
+Odds of bankrupcy: 0.0017333333
+Average tables switched per 1500 games: 42
+Games between switches: 35
+Textbook Strategy Simulation with Probabilistic Insurnace, One Deck Complete
+Expected final pool: 4985
+Positive outcome: 49.384888%
+Standard Deviation on final: 1671.0818743949858
+Hourly return at 100 games / hr: -1
+Odds of bankrupcy: 0.0
+Spanish 21 HiLow Strategy Simulation with Walks, baseline for stackable Complete
+Expected final pool: 5414
+Positive outcome: 57.14286%
+Standard Deviation on final: 3564.0733411456463
+Hourly return at 100 games / hr: 27
+Odds of bankrupcy: 0.0202
+Average tables switched per 1500 games: 32
+Games between switches: 46
+Spanish 21 HiLow Strategy Simulation with Walks and Basic Index Complete
+Expected final pool: 5297
+Positive outcome: 56.161446%
+Standard Deviation on final: 3489.301377811232
+Hourly return at 100 games / hr: 19
+Odds of bankrupcy: 0.0235
+Average tables switched per 1500 games: 32
+Games between switches: 46
+For count: -1 we have fraction: 0.05031891826923077
+For count: 0 we have fraction: 0.04566877403846154
+For count: -2 we have fraction: 0.09500180288461539
+For count: 1 we have fraction: 0.009495
+For count: -3 we have fraction: 0.18678903846153846
+For count: 2 we have fraction: 0.005930769230769231
+For count: -4 we have fraction: 0.19041935096153847
+For count: 3 we have fraction: 0.0035548317307692308
+For count: -5 we have fraction: 0.09494896634615385
+For count: 4 we have fraction: 0.0022647115384615384
+For count: -6 we have fraction: 0.05101581730769231
+For count: 5 we have fraction: 0.001327860576923077
+For count: -7 we have fraction: 0.027544927884615385
+For count: 6 we have fraction: 8.259134615384616E-4
+For count: -8 we have fraction: 0.01708108173076923
+For count: 7 we have fraction: 4.521875E-4
+For count: -9 we have fraction: 0.009758725961538461
+For count: 8 we have fraction: 2.8858173076923077E-4
+For count: -10 we have fraction: 0.005938461538461538
+For count: 9 we have fraction: 1.551201923076923E-4
+For count: -11 we have fraction: 0.0035261778846153845
+For count: 10 we have fraction: 8.125E-5
+For count: -12 we have fraction: 0.0021720673076923076
+For count: 11 we have fraction: 4.548076923076923E-5
+For count: -13 we have fraction: 0.0012766826923076924
+For count: 12 we have fraction: 2.314903846153846E-5
+For count: -14 we have fraction: 7.486057692307692E-4
+For count: 13 we have fraction: 1.1370192307692307E-5
+For count: -15 we have fraction: 4.05625E-4
+For count: 14 we have fraction: 5.480769230769231E-6
+For count: -16 we have fraction: 2.9923076923076924E-4
+For count: 15 we have fraction: 2.5E-6
+For count: -17 we have fraction: 1.4286057692307694E-4
+For count: 16 we have fraction: 1.6346153846153846E-6
+For count: -18 we have fraction: 8.170673076923077E-5
+For count: 17 we have fraction: 2.1634615384615386E-7
+For count: -19 we have fraction: 4.533653846153846E-5
+For count: 18 we have fraction: 9.615384615384616E-8
+For count: -20 we have fraction: 2.170673076923077E-5
+For count: 19 we have fraction: 4.807692307692308E-8
+For count: -21 we have fraction: 1.0E-5
+For count: -22 we have fraction: 5.480769230769231E-6
+For count: -23 we have fraction: 2.596153846153846E-6
+For count: -24 we have fraction: 1.25E-6
+For count: -25 we have fraction: 4.807692307692307E-7
+For count: -26 we have fraction: 2.8846153846153846E-7
+For count: -27 we have fraction: 1.2019230769230769E-7
+For count: -28 we have fraction: 2.403846153846154E-8
+For count: -1 we have fraction: 0.17148853365384614
+For count: 0 we have fraction: 0.23886538461538462
+For count: 1 we have fraction: 0.10637319711538462
+For count: -2 we have fraction: 0.10655709134615385
+For count: -3 we have fraction: 0.06026831730769231
+For count: 2 we have fraction: 0.06128951923076923
+For count: -4 we have fraction: 0.03739125
+For count: 3 we have fraction: 0.036660913461538464
+For count: -5 we have fraction: 0.022865384615384614
+For count: 4 we have fraction: 0.02468706730769231
+For count: -6 we have fraction: 0.015892908653846155
+For count: 5 we have fraction: 0.01601939903846154
+For count: -7 we have fraction: 0.010780576923076922
+For count: 6 we have fraction: 0.011262379807692308
+For count: -8 we have fraction: 0.008137860576923077
+For count: 7 we have fraction: 0.007641995192307693
+For count: -9 we have fraction: 0.005573485576923077
+For count: 8 we have fraction: 0.006326177884615385
+For count: -10 we have fraction: 0.004251971153846154
+For count: 9 we have fraction: 0.0042311778846153844
+For count: -11 we have fraction: 0.003507235576923077
+For count: 10 we have fraction: 0.0037172355769230767
+For count: -12 we have fraction: 0.0026993028846153846
+For count: 11 we have fraction: 0.0024549038461538462
+For count: 12 we have fraction: 0.0031171875
+For count: -13 we have fraction: 0.0027116105769230767
+For count: -14 we have fraction: 0.0010526682692307693
+For count: 13 we have fraction: 0.0010215384615384615
+For count: 14 we have fraction: 0.0015465625
+For count: -15 we have fraction: 0.0014504807692307692
+For count: -16 we have fraction: 0.001059471153846154
+For count: 15 we have fraction: 8.685096153846154E-4
+For count: -17 we have fraction: 5.345432692307693E-4
+For count: 16 we have fraction: 7.264903846153846E-4
+For count: 17 we have fraction: 0.0016325
+For count: -18 we have fraction: 0.0016389182692307692
+For count: -19 we have fraction: 5.333413461538461E-4
+For count: 18 we have fraction: 5.647355769230769E-4
+For count: 19 we have fraction: 4.4805288461538463E-4
+For count: -20 we have fraction: 5.502163461538461E-4
+For count: 20 we have fraction: 7.396634615384615E-4
+For count: -21 we have fraction: 6.308413461538462E-4
+For count: -22 we have fraction: 2.3384615384615384E-4
+For count: 21 we have fraction: 2.2430288461538461E-4
+For count: 22 we have fraction: 3.518269230769231E-4
+For count: -23 we have fraction: 3.36875E-4
+For count: -24 we have fraction: 3.235576923076923E-4
+For count: 23 we have fraction: 2.7088942307692306E-4
+For count: -25 we have fraction: 9.850961538461538E-5
+For count: 24 we have fraction: 1.541105769230769E-4
+For count: 25 we have fraction: 0.001234326923076923
+For count: -26 we have fraction: 0.0012365865384615384
+For count: -27 we have fraction: 5.3125E-6
+For count: 26 we have fraction: 8.173076923076923E-6
+For count: -28 we have fraction: 7.002403846153846E-5
+For count: 27 we have fraction: 4.59375E-5
+For count: -29 we have fraction: 1.1497596153846154E-4
+For count: 28 we have fraction: 1.4528846153846154E-4
+For count: 29 we have fraction: 1.2319711538461538E-4
+For count: -30 we have fraction: 1.2497596153846153E-4
+For count: 30 we have fraction: 3.262019230769231E-5
+For count: -31 we have fraction: 3.0048076923076925E-5
+For count: 31 we have fraction: 2.1709134615384616E-4
+For count: -32 we have fraction: 2.2153846153846155E-4
+For count: 32 we have fraction: 6.795673076923077E-5
+For count: -33 we have fraction: 5.786057692307692E-5
+For count: 33 we have fraction: 2.605769230769231E-5
+For count: -34 we have fraction: 2.5120192307692306E-5
+For count: 34 we have fraction: 3.725240384615385E-4
+For count: -35 we have fraction: 3.760336538461538E-4
+For count: -36 we have fraction: 5.9855769230769235E-6
+For count: 35 we have fraction: 2.2596153846153845E-6
+For count: 36 we have fraction: 1.6490384615384615E-5
+For count: -37 we have fraction: 1.485576923076923E-5
+For count: -38 we have fraction: 5.0985576923076925E-5
+For count: 37 we have fraction: 4.951923076923077E-5
+For count: 38 we have fraction: 1.494230769230769E-4
+For count: -39 we have fraction: 1.5310096153846154E-4
+For count: -40 we have fraction: 1.8509615384615385E-6
+For count: 39 we have fraction: 1.9230769230769231E-7
+For count: 40 we have fraction: 1.09375E-5
+For count: -41 we have fraction: 1.0048076923076923E-5
+For count: -42 we have fraction: 6.430288461538462E-5
+For count: 41 we have fraction: 6.608173076923077E-5
+For count: -43 we have fraction: 2.1634615384615387E-6
+For count: 42 we have fraction: 2.139423076923077E-6
+For count: -44 we have fraction: 2.8221153846153847E-5
+For count: 43 we have fraction: 2.841346153846154E-5
+For count: 44 we have fraction: 1.2572115384615385E-5
+For count: -45 we have fraction: 1.2740384615384615E-5
+For count: -46 we have fraction: 5.625E-6
+For count: 45 we have fraction: 5.6490384615384615E-6
+For count: -47 we have fraction: 3.1730769230769233E-6
+For count: 46 we have fraction: 2.644230769230769E-6
+For count: -48 we have fraction: 4.5673076923076923E-7
+For count: 47 we have fraction: 5.048076923076923E-7
+For count: 48 we have fraction: 1.6826923076923077E-7
+For count: -49 we have fraction: 4.807692307692308E-8
+For count: 51 we have fraction: 0.001503966346153846
+For count: -52 we have fraction: 0.0014953125
+Zero fraction: 0.23886538461538462
+For count: 0 we have fraction: 0.22291932692307692
+For count: -1 we have fraction: 0.171360625
+For count: 1 we have fraction: 0.10195617788461539
+For count: -2 we have fraction: 0.10165838942307692
+For count: -3 we have fraction: 0.055660576923076924
+For count: 2 we have fraction: 0.056686875
+For count: -4 we have fraction: 0.032484014423076926
+For count: 3 we have fraction: 0.03247004807692308
+For count: 4 we have fraction: 0.019714831730769232
+For count: -5 we have fraction: 0.0188353125
+For count: 5 we have fraction: 0.011802764423076923
+For count: -6 we have fraction: 0.01170829326923077
+For count: -7 we have fraction: 0.007155192307692308
+For count: 6 we have fraction: 0.007327572115384615
+For count: -8 we have fraction: 0.004501514423076923
+For count: 7 we have fraction: 0.0044699038461538465
+For count: -9 we have fraction: 0.002703125
+For count: 8 we have fraction: 0.0028903846153846154
+For count: -10 we have fraction: 0.0016944711538461538
+For count: 9 we have fraction: 0.0017303846153846154
+For count: 10 we have fraction: 0.0010958173076923076
+For count: -11 we have fraction: 0.0010450480769230769
+For count: 11 we have fraction: 6.475E-4
+For count: -12 we have fraction: 6.422355769230769E-4
+For count: 12 we have fraction: 4.1661057692307695E-4
+For count: -13 we have fraction: 3.816826923076923E-4
+For count: 13 we have fraction: 2.2641826923076923E-4
+For count: -14 we have fraction: 2.2074519230769231E-4
+For count: 14 we have fraction: 1.3646634615384616E-4
+For count: -15 we have fraction: 1.2771634615384614E-4
+For count: 15 we have fraction: 7.872596153846154E-5
+For count: -16 we have fraction: 7.026442307692308E-5
+For count: 16 we have fraction: 4.5865384615384614E-5
+For count: -17 we have fraction: 3.819711538461538E-5
+For count: 17 we have fraction: 2.887019230769231E-5
+For count: -18 we have fraction: 2.3076923076923076E-5
+For count: -19 we have fraction: 9.831730769230769E-6
+For count: 18 we have fraction: 1.1538461538461538E-5
+For count: -20 we have fraction: 5.432692307692308E-6
+For count: 19 we have fraction: 6.9471153846153845E-6
+For count: -21 we have fraction: 2.5240384615384613E-6
+For count: 20 we have fraction: 3.6778846153846154E-6
+For count: -22 we have fraction: 1.0817307692307693E-6
+For count: 21 we have fraction: 1.6586538461538461E-6
+For count: -23 we have fraction: 5.528846153846153E-7
+For count: 22 we have fraction: 5.528846153846153E-7
+For count: -24 we have fraction: 1.9230769230769231E-7
+For count: 23 we have fraction: 2.6442307692307694E-7
+For count: 24 we have fraction: 2.1634615384615386E-7
+For count: -25 we have fraction: 4.807692307692308E-8
+For count: 25 we have fraction: 1.6826923076923077E-7
+For count: 26 we have fraction: 2.4038461538461537E-7
+For count: 27 we have fraction: 2.403846153846154E-8
+For count: 29 we have fraction: 2.403846153846154E-8
+Zero fraction: 0.22291932692307692
+Textbook Strategy Simulation 21+3, Simple Ratio Complete
+Expected final pool: 4867
+Positive outcome: 48.12834%
+Standard Deviation on final: 1640.7138402310889
+Hourly return at 100 games / hr: -8
+Odds of bankrupcy: 0.0
+Total Gain: 91800
+Total Loss: 106640
+Win/Loss Ratio: 0.8608402100525131
+Textbook Strategy Simulation 21+3, Naive Complete
+Expected final pool: 1839
+Positive outcome: 42.48879%
+Standard Deviation on final: 3697.78995503659
+Hourly return at 100 games / hr: -210
+Odds of bankrupcy: 0.3514
+Total Gain: 670678920
+Total Loss: 761869120
+Win/Loss Ratio: 0.880307263273776
+HiLow Strategy Simulation, SV Rules Complete
+Expected final pool: 5107
+Positive outcome: 51.041668%
+Standard Deviation on final: 2447.729192612542
+Hourly return at 100 games / hr: 7
+Odds of bankrupcy: 4.6666668E-4
+HiLow Strategy Simulation with Organic Bet Increase on Win, SV Rules Complete
+Expected final pool: 5084
+Positive outcome: 51.271755%
+Standard Deviation on final: 2262.2088160859453
+Hourly return at 100 games / hr: 5
+Odds of bankrupcy: 2.3333334E-4
+HiLow Strategy Simulation with Walks, SV Rules Complete
+Expected final pool: 5271
+Positive outcome: 53.177254%
+Standard Deviation on final: 2671.517147220466
+Hourly return at 100 games / hr: 18
+Odds of bankrupcy: 0.0011
+Average tables switched per 1500 games: 28
+Games between switches: 53
+HiLow Strategy Simulation with Walks, Deeper Pen, SV Rules Complete
+Expected final pool: 5327
+Positive outcome: 53.454548%
+Standard Deviation on final: 2878.7028130243466
+Hourly return at 100 games / hr: 21
+Odds of bankrupcy: 0.002
+Average tables switched per 1500 games: 28
+Games between switches: 53
+HiLow Strategy Simulation with Organic Bet Increase On Loss, SV Rules Complete
+Expected final pool: 5081
+Positive outcome: 51.050198%
+Standard Deviation on final: 1881.7560321430997
+Hourly return at 100 games / hr: 5
+Odds of bankrupcy: 4.0E-4
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.remove(Unknown Source)
+	at handy.cards.Shoe.poll(Shoe.java:24)
+	at handy.blackjack.sim.Round.playHandWorker(Round.java:62)
+	at handy.blackjack.sim.Round.playHandWorker(Round.java:65)
+	at handy.blackjack.sim.Round.playHandWorker(Round.java:65)
+	at handy.blackjack.sim.Round.playHandWorker(Round.java:75)
+	at handy.blackjack.sim.Round.playHandWorker(Round.java:75)
+	at handy.blackjack.sim.Round.playHand(Round.java:52)
+	at handy.common21.sim.Round.playRoundMaster(Round.java:38)
+	at handy.blackjack.sim.Round.play(Round.java:105)
+	at handy.common21.sim.Simulator.runSim(Simulator.java:32)
+	at handy.common21.sim.SimulationRunner.runSimSet(SimulationRunner.java:61)
+	at handy.blackjacksim.StandardVSRulesBaseline.testSimRunnerHiLowOneDeck(StandardVSRulesBaseline.java:130)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at junit.framework.TestCase.runTest(TestCase.java:176)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.eclipse.jdt.internal.junit.runner.junit3.JUnit3TestReference.run(JUnit3TestReference.java:131)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+HiLow Strategy Simulation, One Deck, SV Rules Complete
+Expected final pool: 5878
+Positive outcome: 58.991127%
+Standard Deviation on final: 3187.5396211694356
+Hourly return at 100 games / hr: 58
+Odds of bankrupcy: 0.0036666666
+Textbook Strategy Simulation, SV Rules Complete
+Expected final pool: 4782
+Positive outcome: 46.572937%
+Standard Deviation on final: 1670.1505546565807
+Hourly return at 100 games / hr: -14
+Odds of bankrupcy: 0.0
+HiLow Strategy Simulation, Two Deck, SV Rules Complete
+Expected final pool: 5503
+Positive outcome: 55.76635%
+Standard Deviation on final: 2970.6511531294977
+Hourly return at 100 games / hr: 33
+Odds of bankrupcy: 0.0021333334
+Spanish21 HiLow Strategy Simulation with walks, S17 Complete
+Expected final pool: 7984
+Positive outcome: 54.052017%
+Standard Deviation on final: 4019.8361625150847
+Hourly return at 100 games / hr: 32
+Odds of bankrupcy: 0.0020666667
+Average tables switched per 1500 games: 33
+Games between switches: 45
+Spanish21 HiLow Strategy Simulation Complete
+Expected final pool: 7636
+Positive outcome: 51.406445%
+Standard Deviation on final: 3721.010859340264
+Hourly return at 100 games / hr: 9
+Odds of bankrupcy: 0.0013666666
+Spanish21 HiLow Strategy Simulation with Organic Bet Increase on Win Complete
+Expected final pool: 7616
+Positive outcome: 52.446278%
+Standard Deviation on final: 3320.8952775485777
+Hourly return at 100 games / hr: 7
+Odds of bankrupcy: 2.6666667E-4
+Spanish21 HiLow Strategy Simulation with Walks Complete
+Expected final pool: 7815
+Positive outcome: 51.791042%
+Standard Deviation on final: 4044.488263941951
+Hourly return at 100 games / hr: 21
+Odds of bankrupcy: 0.0023
+Average tables switched per 1500 games: 33
+Games between switches: 45
+Spanish21 HiLow Strategy Simulation with Organic Bet Increase On Loss Complete
+Expected final pool: 7637
+Positive outcome: 51.509605%
+Standard Deviation on final: 2746.6741700831117
+Hourly return at 100 games / hr: 9
+Odds of bankrupcy: 6.3333334E-4
+Spanish21 HiLow Strategy Simulation, S17 Complete
+Expected final pool: 7759
+Positive outcome: 52.308327%
+Standard Deviation on final: 3692.8591966343
+Hourly return at 100 games / hr: 17
+Odds of bankrupcy: 8.3333335E-4
+Spanish21 Textbook Strategy Simulation, S17 Complete
+Expected final pool: 7296
+Positive outcome: 46.677742%
+Standard Deviation on final: 1767.1495771176183
+Hourly return at 100 games / hr: -13
+Odds of bankrupcy: 0.0
+Spanish21 HiLow Strategy Simulation, 6 Deck H17 Complete
+Expected final pool: 7646
+Positive outcome: 51.52165%
+Standard Deviation on final: 3541.9732627569156
+Hourly return at 100 games / hr: 9
+Odds of bankrupcy: 5.0E-4
+Spanish21 HiLow Strategy Simulation, with Whale Complete
+Expected final pool: 750908
+Positive outcome: 52.60335%
+Standard Deviation on final: 13847.138538441553
+Hourly return at 100 games / hr: 60
+Odds of bankrupcy: 0.0
+Spanish21 Textbook Strategy Simulation Complete
+Expected final pool: 7176
+Positive outcome: 43.75%
+Standard Deviation on final: 1737.4684578120812
+Hourly return at 100 games / hr: -21
+Odds of bankrupcy: 0.0
+Textbook Strategy Simulation Lucky Ladies, Tens Count Complete
+Expected final pool: 9823
+Positive outcome: 48.747913%
+Standard Deviation on final: 1848.9458400755157
+Hourly return at 100 games / hr: -11
+Odds of bankrupcy: 0.0
+Textbook Strategy Simulation Lucky Ladies, Naive Complete
+Expected final pool: 214
+Positive outcome: 36.199722%
+Standard Deviation on final: 9612.022949498825
+Hourly return at 100 games / hr: -652
+Odds of bankrupcy: 0.9656
+Textbook Strategy Simulation Royal Match, Baseline Complete
+Expected final pool: 4858
+Positive outcome: 48.027443%
+Standard Deviation on final: 1713.6854310030901
+Hourly return at 100 games / hr: -9
+Odds of bankrupcy: 0.0
+Textbook Strategy Simulation Royal Match, Naive Complete
+Expected final pool: 22468
+Positive outcome: 0.0%
+Standard Deviation on final: 2106.6254549192276
+Hourly return at 100 games / hr: -1835
+Odds of bankrupcy: 0.0
+Textbook Strategy Simulation Royal Match, Tens Complete
+Expected final pool: 4801
+Positive outcome: 46.59686%
+Standard Deviation on final: 1689.6278662334291
+Hourly return at 100 games / hr: -13
+Odds of bankrupcy: 0.0
