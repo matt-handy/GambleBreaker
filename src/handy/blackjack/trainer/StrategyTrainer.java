@@ -6,14 +6,13 @@ import java.util.List;
 import java.util.Scanner;
 
 import handy.blackjack.sim.Hand;
-import handy.blackjack.sim.Round;
-import handy.common21.sim.Rules;
-import handy.common21.sim.Round.OUTCOME;
-import handy.common21.sim.sidebet.SideBetDescription;
-import handy.common21.strategy.DealerChoice;
 import handy.blackjack.strategy.TextbookStrategy;
 import handy.cards.Card;
 import handy.cards.Shoe;
+import handy.common21.sim.Round.OUTCOME;
+import handy.common21.sim.Rules;
+import handy.common21.sim.sidebet.SideBetDescription;
+import handy.common21.strategy.DealerChoice;
 
 public class StrategyTrainer {
 

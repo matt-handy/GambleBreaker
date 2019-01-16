@@ -7,7 +7,7 @@ public class ShoeTest extends TestCase {
 		Shoe shoe = new Shoe(4);
 		while(shoe.shoeList.size() > 0){
 			Card card = shoe.poll();
-			//System.out.println(card.suite.toString() + ": " + card.value.toString());
+			System.out.println(card.suite.toString() + ": " + card.value.toString());
 		}
 	}
 
